@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @joshrandall8478
-- 👀 I’m interested in coding basic yet effective programs
-- 🌱 I’m currently learning python, c/c++, and java
+- 👀 I’m interested in coding basic, yet effective programs
+- 🌱 I’m currently learning Python, C/C++, and (soon) Java
 - 💞️ I’m looking to collaborate on many things relating to school and work
-- 📫 How to reach me: @joshrandall8478 on social media
+- 🤓 I am fluent in Windows, macOS, and Linux
+- 🙌 I use Arch BTW
+- 📫 How to reach me: @joshrandall8478 on social media, or joshrandall8478@gmail.com
 
 <!---
 joshrandall8478/joshrandall8478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
