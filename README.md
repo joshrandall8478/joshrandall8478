@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshrandall8478
 - 👀 I’m interested in coding basic, yet effective programs
-- 🌱 I’m currently learning Python, C/C++, and (soon) Java
+- 🌱 I’m currently learning Python, C/C++, and Java
 - 💞️ I’m looking to collaborate on many things relating to school and work
 - 🤓 I am fluent in Windows, macOS, and Linux
 - 🙌 I use Arch BTW
