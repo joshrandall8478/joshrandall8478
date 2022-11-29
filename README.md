@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on many things relating to school and work
 - 🤓 I am fluent in Windows, macOS, and Linux
 - 🙌 I use Arch BTW
-- 📫 How to reach me: @joshrandall8478 on social media, or joshrandall8478@gmail.com
+- 📫 How to reach me: @joshrandall8478 on social media, or josh@joshrandall.net
 
 <!---
 joshrandall8478/joshrandall8478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
