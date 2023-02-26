@@ -1,3 +1,14 @@
+# Joshua Randall
+### Skill sets
+- Fluent in Windows, macOS, and Arch Linux
+- Languages: Java, Python, HTML, CSS, JS
+
+## Active Projects 
+- Main website
+- Meloetta
+- Various Data Structure Labs
+
+<!---
 - 👋 Hi, I’m @joshrandall8478
 - 👀 I’m interested in coding basic, yet effective programs
 - 🌱 I’m currently learning Python, C/C++, and Java
@@ -9,4 +20,3 @@
 <!---
 joshrandall8478/joshrandall8478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
