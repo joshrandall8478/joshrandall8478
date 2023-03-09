@@ -7,11 +7,11 @@
 - :eyes: I am looking to find more projects to collaborate on to learn more syntax, standards, and tricks.
 
 ## :computer: Active Projects 
-**Main website**
+**Main website**<br>
 [![Main Website - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=joshrandall8478.github.io&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Main Website - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=joshrandall8478.github.io&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-**My own custom `kitty` theme**
+**My own custom `kitty` theme**<br>
 [![Main Website - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=blackpastelgreen&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Main Website - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=blackpastelgreen&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
