@@ -8,8 +8,6 @@
 - :smiling_imp: My main goal is to become a full stack developer. The languages I am currently learning are currently **CSS, HTML, Java, Python, JavaScript**. In reality, I am just trying to learn everything.
 - :eyes: I am looking to find more projects to collaborate on to learn more syntax, standards, and tricks.
 
-### Development
-
 ## :computer: Active Projects 
 ### :unlock: Public Active Projects
 **Main website**<br>
