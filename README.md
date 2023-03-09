@@ -21,7 +21,9 @@
 ### :lock: Private Active Projects
 - **Meloetta**
     - A discord bot that plays music from YouTube in voice chat, meant to be an open source solution to the loss of the Rythm discord bot.
-- **Various Data Structure Labs**
+- **<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width=15px height=auto> Docker Containers + Self Hosting**
+    - Working with various self hosting solutions. Examples include Vaultwarden, n8n, rport, etc.
+- **Various Data Structure Labs (COSC 211 + 212)**
 
 ## :bar_chart: Stats
 *Editors Note: "Most Used Languages" does not represent my proficiency in that language.*
