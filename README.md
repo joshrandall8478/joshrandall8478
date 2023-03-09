@@ -6,12 +6,22 @@
 - :smiling_imp: My main goal is to become a full stack developer. The languages I am currently learning are currently **CSS, HTML, Java, Python, JavaScript**. In reality, I am just trying to learn everything.
 - :eyes: I am looking to find more projects to collaborate on to learn more syntax, standards, and tricks.
 
-## Active Projects 
-- Main website
-- Meloetta
-- Various Data Structure Labs
+## :computer: Active Projects 
+**Main website**
+[![Main Website - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=joshrandall8478.github.io&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Main Website - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=joshrandall8478.github.io&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+**My own custom `kitty` theme**
+[![Main Website - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=blackpastelgreen&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Main Website - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=blackpastelgreen&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+### Private Active Projects
+- **Meloetta**
+    - A discord bot that plays music from YouTube in voice chat, meant to be an open source solution to the loss of the Rythm discord bot.
+- **Various Data Structure Labs**
 
 ## Stats
+*Editors Note: "Most Used Languages" does not represent my proficiency in that language.*
 [![Josh's GitHub stats - dark](https://github-readme-stats.vercel.app/api?username=joshrandall8478&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/github-readme-stats#gh-dark-mode-only)
 [![Josh's GitHub stats - light](https://github-readme-stats.vercel.app/api?username=joshrandall8478&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/github-readme-stats#gh-light-mode-only)
 [![Top Langs - dark](https://github-readme-stats.vercel.app/api/top-langs/?username=joshrandall8478&langs_count=10&layout=compact&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/github-readme-stats#gh-dark-mode-only)
