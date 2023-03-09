@@ -1,5 +1,7 @@
 # Hi there, I'm [Josh](https://joshrandall.net) :wave:
-[![My Skills](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,blender,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,linux,octave,ps,pr,py,svg,vim,vscode)](https://skillicons.dev)
+[![My Skills - dark](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,blender,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,idea,linux,octave,ps,pr,py,svg,vim,vscode&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills - light](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,blender,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,idea,linux,octave,ps,pr,py,svg,vim,vscode&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+
 
 ## :alien: About Me
 - :mortar_board: I am currently attending [__Eastern Michigan University__](https://emich.edu) as a Computer Science major
