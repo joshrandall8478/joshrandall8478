@@ -1,12 +1,13 @@
 # Hi there, I'm [Josh](https://joshrandall.net) :wave:
 [![My Skills](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,blender,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,linux,octave,ps,pr,py,svg,vim,vscode)](https://skillicons.dev)
 
-## About Me
+## :alien: About Me
 - :mortar_board: I am currently attending [__Eastern Michigan University__](https://emich.edu) as a Computer Science major
 - :smiling_imp: My main goal is to become a full stack developer. The languages I am currently learning are currently **CSS, HTML, Java, Python, JavaScript**. In reality, I am just trying to learn everything.
 - :eyes: I am looking to find more projects to collaborate on to learn more syntax, standards, and tricks.
 
 ## :computer: Active Projects 
+### :unlock: Public Active Projects
 **Main website**<br>
 [![Main Website - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=joshrandall8478.github.io&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Main Website - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=joshrandall8478.github.io&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -15,12 +16,12 @@
 [![Main Website - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=blackpastelgreen&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Main Website - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=blackpastelgreen&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-### Private Active Projects
+### :lock: Private Active Projects
 - **Meloetta**
     - A discord bot that plays music from YouTube in voice chat, meant to be an open source solution to the loss of the Rythm discord bot.
 - **Various Data Structure Labs**
 
-## Stats
+## :bar_chart: Stats
 *Editors Note: "Most Used Languages" does not represent my proficiency in that language.*
 [![Josh's GitHub stats - dark](https://github-readme-stats.vercel.app/api?username=joshrandall8478&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/github-readme-stats#gh-dark-mode-only)
 [![Josh's GitHub stats - light](https://github-readme-stats.vercel.app/api?username=joshrandall8478&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/github-readme-stats#gh-light-mode-only)
