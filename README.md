@@ -30,6 +30,7 @@
 [![Josh's GitHub stats - light](https://github-readme-stats.vercel.app/api?username=joshrandall8478&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Top Langs - dark](https://github-readme-stats.vercel.app/api/top-langs/?username=joshrandall8478&langs_count=10&layout=compact&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs - light](https://github-readme-stats.vercel.app/api/top-langs/?username=joshrandall8478&langs_count=10&layout=compact&count_private=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+<br>
 *Editors Note: "Most Used Languages" does not represent my proficiency in that language.*
 <!---
 - 👋 Hi, I’m @joshrandall8478
