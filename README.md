@@ -1,12 +1,14 @@
 # Hi there, I'm [Josh](https://joshrandall.net) :wave:
-[![My Skills - dark](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,blender,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,idea,linux,octave,ps,pr,py,svg,vim,vscode&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-[![My Skills - light](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,blender,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,idea,linux,octave,ps,pr,py,svg,vim,vscode&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills - dark](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,idea,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills - light](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,idea,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 
 
 ## :alien: About Me
 - :mortar_board: I am currently attending [__Eastern Michigan University__](https://emich.edu) as a Computer Science major
 - :smiling_imp: My main goal is to become a full stack developer. The languages I am currently learning are currently **CSS, HTML, Java, Python, JavaScript**. In reality, I am just trying to learn everything.
 - :eyes: I am looking to find more projects to collaborate on to learn more syntax, standards, and tricks.
+
+### Development
 
 ## :computer: Active Projects 
 ### :unlock: Public Active Projects
