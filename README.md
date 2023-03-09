@@ -1,6 +1,6 @@
 # Hi there, I'm [Josh](https://joshrandall.net) :wave:
-[![My Skills - dark](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,idea,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-[![My Skills - light](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,idea,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+[![My Skills - dark](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,idea,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills - light](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,idea,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
 
 
 ## :alien: About Me
