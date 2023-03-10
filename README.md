@@ -6,7 +6,7 @@
 [![My Skills - light](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,md,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 
 
-### :headphones: Listening To:
+### <img src="https://play-lh.googleusercontent.com/P2VMEenhpIsubG2oWbvuLGrs0GyyzLiDosGTg8bi8htRXg9Uf0eUtHiUjC28p1jgHzo" width=15px> Listening to
 <!-- [![Spotify - Light](https://spotify-readme.vercel.app/api?rainbow=true&scan=true#gh-light-mode-only)](#gh-light-mode-only)
 [![Spotify - Dark](https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true#gh-dark-mode-only)](#gh-dark-mode-only) -->
 [<img class="spotify" src="https://spotify-readme.vercel.app/api?rainbow=true&scan=true#gh-light-mode-only">](https://github.com/joshrandall8478/Spotify-Readme#gh-light-mode-only)
