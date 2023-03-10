@@ -1,19 +1,12 @@
 <!-- [<img align="right" src="https://spotify-readme.vercel.app/api?rainbow=true&scan=true" width="50%">](https://open.spotify.com/user/sarge8478#gh-light-mode-only)
 [<img align="right" src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true" width="50%">](https://open.spotify.com/user/sarge8478#gh-dark-mode-only) -->
-<style>
-    @media (pointer:none), (pointer:coarse) {
-        .spotify{
-            display: none;
-        }
-    }
-</style>
 
 # Hi there, I'm [Josh](https://joshrandall.net) :wave:
 [![My Skills - dark](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,idea,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 [![My Skills - light](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,idea,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 
 
-<h3 class="spotify">Listening To: </h3>
+### :headphones: Listening To:
 <!-- [![Spotify - Light](https://spotify-readme.vercel.app/api?rainbow=true&scan=true#gh-light-mode-only)](#gh-light-mode-only)
 [![Spotify - Dark](https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true#gh-dark-mode-only)](#gh-dark-mode-only) -->
 [<img class="spotify" src="https://spotify-readme.vercel.app/api?rainbow=true&scan=true#gh-light-mode-only">](https://open.spotify.com/user/sarge8478#gh-light-mode-only)
