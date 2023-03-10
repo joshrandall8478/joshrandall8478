@@ -1,5 +1,5 @@
-[<p align="right">get your ass out of light mode</p><img align="right" src="https://spotify-readme.vercel.app/api?rainbow=true" width="45%">](#gh-light-mode-only)
-[<p align="right">Now playing:</p><img align="right" src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true" width="45%">](#gh-dark-mode-only)
+[<img align="right" src="https://spotify-readme.vercel.app/api?rainbow=true" width="45%">](#gh-light-mode-only)
+[<img align="right" src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true" width="45%">](#gh-dark-mode-only)
 
 # Hi there, I'm [Josh](https://joshrandall.net) :wave:
 [![My Skills - dark](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,idea,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
