@@ -7,8 +7,10 @@
 
 
 ### :headphones: Listening To:
-[![Spotify - Light](https://spotify-readme.vercel.app/api?rainbow=true&scan=true#gh-light-mode-only)](#gh-light-mode-only)
-[![Spotify - Dark](https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true#gh-dark-mode-only)](#gh-dark-mode-only)
+<!-- [![Spotify - Light](https://spotify-readme.vercel.app/api?rainbow=true&scan=true#gh-light-mode-only)](#gh-light-mode-only)
+[![Spotify - Dark](https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true#gh-dark-mode-only)](#gh-dark-mode-only) -->
+[<img width="70%" src="https://spotify-readme.vercel.app/api?rainbow=true&scan=true#gh-light-mode-only">](#gh-light-mode-only)
+[<img width="70%" src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true#gh-dark-mode-only">](#gh-dark-mode-only)
 
 ## :alien: About Me
 - :mortar_board: I am currently attending [__Eastern Michigan University__](https://emich.edu) as a Computer Science major.
