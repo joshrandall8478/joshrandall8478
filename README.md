@@ -9,8 +9,8 @@
 ### :headphones: Listening To:
 <!-- [![Spotify - Light](https://spotify-readme.vercel.app/api?rainbow=true&scan=true#gh-light-mode-only)](#gh-light-mode-only)
 [![Spotify - Dark](https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true#gh-dark-mode-only)](#gh-dark-mode-only) -->
-[<img class="spotify" src="https://spotify-readme.vercel.app/api?rainbow=true&scan=true#gh-light-mode-only">](https://open.spotify.com/user/sarge8478#gh-light-mode-only)
-[<img class="spotify" src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true#gh-dark-mode-only">](https://open.spotify.com/user/sarge8478#gh-dark-mode-only)
+[<img class="spotify" src="https://spotify-readme.vercel.app/api?rainbow=true&scan=true#gh-light-mode-only">](https://github.com/joshrandall8478/Spotify-Readme#gh-light-mode-only)
+[<img class="spotify" src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true#gh-dark-mode-only">](https://github.com/joshrandall8478/Spotify-Readme#gh-dark-mode-only)
 
 ## :alien: About Me
 - :mortar_board: I am currently attending [__Eastern Michigan University__](https://emich.edu) as a Computer Science major.
