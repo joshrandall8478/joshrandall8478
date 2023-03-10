@@ -1,14 +1,14 @@
-[<img align="right" src="https://spotify-readme.vercel.app/api?rainbow=true&scan=true" width="50%">](https://open.spotify.com/user/sarge8478#gh-light-mode-only)
-[<img align="right" src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true" width="50%">](https://open.spotify.com/user/sarge8478#gh-dark-mode-only)
+<!-- [<img align="right" src="https://spotify-readme.vercel.app/api?rainbow=true&scan=true" width="50%">](https://open.spotify.com/user/sarge8478#gh-light-mode-only)
+[<img align="right" src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true" width="50%">](https://open.spotify.com/user/sarge8478#gh-dark-mode-only) -->
 
 # Hi there, I'm [Josh](https://joshrandall.net) :wave:
 [![My Skills - dark](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,idea,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 [![My Skills - light](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,idea,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 
 
-<!-- ### :headphones: Listening To:
+### :headphones: Listening To:
 [<img src="https://spotify-readme.vercel.app/api?rainbow=true&scan=true" width="50%">](https://open.spotify.com/user/sarge8478#gh-light-mode-only)
-[<img src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true" width="50%">](https://open.spotify.com/user/sarge8478#gh-dark-mode-only) -->
+[<img src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true" width="50%">](https://open.spotify.com/user/sarge8478#gh-dark-mode-only)
 
 ## :alien: About Me
 - :mortar_board: I am currently attending [__Eastern Michigan University__](https://emich.edu) as a Computer Science major.
