@@ -25,8 +25,8 @@
 [![Main Website - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=joshrandall8478.github.io&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/joshrandall8478.github.io#gh-light-mode-only)
 
 **My own custom `kitty` theme**<br>
-[![Main Website - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=blackpastelgreen&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/blackpastelgreen#gh-dark-mode-only)
-[![Main Website - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=blackpastelgreen&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/blackpastelgreen#gh-light-mode-only)
+[![Kitty Theme - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=blackpastelgreen&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/blackpastelgreen#gh-dark-mode-only)
+[![Kitty Theme - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=blackpastelgreen&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/blackpastelgreen#gh-light-mode-only)
 
 ### :lock: Private Active Projects
 **Meloetta**<br>
