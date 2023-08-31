@@ -18,7 +18,7 @@
 - :mortar_board: I am currently attending [__Eastern Michigan University__](https://emich.edu) as a Computer Science major.
 - :smiling_imp: My main goal is to become a full stack developer. The languages I am currently learning are currently **CSS, HTML, Java, Python, JavaScript**. In reality, I am just trying to learn everything.
 - :eyes: I am looking to find more projects to collaborate on to learn more syntax, standards, and tricks.
-- <img height=15px src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png"> I run Arch btw.
+- <img height=15px style="padding: 10px 0px;" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png"> I run Arch btw.
 
 
 ## :computer: Active Projects 
