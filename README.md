@@ -1,6 +1,8 @@
 <!-- [<img align="right" src="https://spotify-readme.vercel.app/api?rainbow=true&scan=true" width="50%">](https://open.spotify.com/user/sarge8478#gh-light-mode-only)
 [<img align="right" src="https://spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true" width="50%">](https://open.spotify.com/user/sarge8478#gh-dark-mode-only) -->
 
+
+
 # Hi there, I'm [Josh](https://joshrandall.net) :wave:
 [![My Skills - dark](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,md,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
 [![My Skills - light](https://skillicons.dev/icons?i=ae,arduino,au,azure,bash,cpp,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,md,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
@@ -16,6 +18,7 @@
 - :mortar_board: I am currently attending [__Eastern Michigan University__](https://emich.edu) as a Computer Science major.
 - :smiling_imp: My main goal is to become a full stack developer. The languages I am currently learning are currently **CSS, HTML, Java, Python, JavaScript**. In reality, I am just trying to learn everything.
 - :eyes: I am looking to find more projects to collaborate on to learn more syntax, standards, and tricks.
+- <img height=15px src="https://w7.pngwing.com/pngs/809/243/png-transparent-arch-linux-tgz-linux-angle-triangle-logo-thumbnail.png"> I run Arch btw.
 
 
 ## :computer: Active Projects 
