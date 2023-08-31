@@ -38,8 +38,6 @@
 **<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width=15px height=auto> Docker Containers + Self Hosting**<br>
 - Working with various self hosting solutions. Examples include Vaultwarden, n8n, rport, etc.
 
-**Various Data Structure Labs (COSC 211 + 212)**
-
 ## :bar_chart: Stats
 [![Josh's GitHub stats - dark](https://github-readme-stats.vercel.app/api?username=joshrandall8478&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Josh's GitHub stats - light](https://github-readme-stats.vercel.app/api?username=joshrandall8478&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
