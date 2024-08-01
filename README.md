@@ -27,9 +27,13 @@
 [![Main Website - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=joshrandall8478.github.io&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/joshrandall8478.github.io#gh-dark-mode-only)
 [![Main Website - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=joshrandall8478.github.io&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/joshrandall8478.github.io#gh-light-mode-only)
 
-**My own custom `kitty` theme**<br>
-[![Kitty Theme - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=blackpastelgreen&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/blackpastelgreen#gh-dark-mode-only)
-[![Kitty Theme - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=blackpastelgreen&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/blackpastelgreen#gh-light-mode-only)
+**Practicing JSON parcing in Vue**<br>
+[![Mega Evolution - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=mega-evolution&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/mega-evolution#gh-dark-mode-only)
+[![Mega Evolution - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=mega-evolution&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/mega-evolution#gh-light-mode-only)
+
+**KDE Plasma 5 Rice (Temporarily Deprecated)**<br>
+[![KDE Rice - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=kde-rice&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/kde-rice#gh-dark-mode-only)
+[![KDE Rice - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=kde-rice&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/kde-rice#gh-light-mode-only)
 
 ### :lock: Private Active Projects
 **Meloetta**<br>
