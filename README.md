@@ -4,8 +4,8 @@
 
 
 # Hi there, I'm [Josh](https://joshrandall.net/about) :wave:
-[![My Skills - dark](https://skillicons.dev/icons?i=arch,ae,arduino,au,bash,c,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,md,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim,ubuntu,vue,vite,pycharm,gitlab,apple,astro,mint,windows,fediverse,r,nodejs,react,php,&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-[![My Skills - light](https://skillicons.dev/icons?i=arch,ae,arduino,au,bash,c,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,md,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim,ubuntu,vue,vite,pycharm,gitlab,apple,astro,mint,windows,fediverse,r,nodejs,react,php,&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
+[![My Skills - dark](https://skillicons.dev/icons?i=arch,ae,arduino,au,bash,c,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,md,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim,ubuntu,vue,vite,pycharm,gitlab,apple,astro,mint,windows,fediverse,r,nodejs,react,php,debian&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills - light](https://skillicons.dev/icons?i=arch,ae,arduino,au,bash,c,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,md,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim,ubuntu,vue,vite,pycharm,gitlab,apple,astro,mint,windows,fediverse,r,nodejs,react,php,debian&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 
 
 <!--### 🎧 My Spotify Player -->
