@@ -4,8 +4,8 @@
 
 
 # Hi there, I'm [Josh](https://joshrandall.net/about) :wave:
-[![My Skills - dark](https://skillicons.dev/icons?i=arch,ae,arduino,au,bash,c,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,md,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim,ubuntu,vue,vite,pycharm,gitlab,apple,astro,mint,windows,fediverse,r,nodejs,react,php,debian&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
-[![My Skills - light](https://skillicons.dev/icons?i=arch,ae,arduino,au,bash,c,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,md,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim,ubuntu,vue,vite,pycharm,gitlab,apple,astro,mint,windows,fediverse,r,nodejs,react,php,debian&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
+[![My Skills - dark](https://skillicons.dev/icons?i=arch,nix,ae,arduino,au,bash,c,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,md,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim,ubuntu,vue,vite,pycharm,gitlab,apple,astro,mint,windows,fediverse,r,nodejs,react,php,debian&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills - light](https://skillicons.dev/icons?i=arch,nix,ae,arduino,au,bash,c,cloudflare,css,discord,bots,docker,eclipse,git,github,html,ai,js,java,md,linux,octave,ps,pr,py,svg,vim,vscode,powershell,mastodon,neovim,ubuntu,vue,vite,pycharm,gitlab,apple,astro,mint,windows,fediverse,r,nodejs,react,php,debian&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 
 
 <!--### 🎧 My Spotify Player -->
@@ -23,9 +23,9 @@
 
 ## :computer: Active Projects 
 ### :unlock: Public Active Projects
-**Main website**<br>
-[![Main Website - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=joshrandall8478.github.io&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/joshrandall8478.github.io#gh-dark-mode-only)
-[![Main Website - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=joshrandall8478.github.io&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/joshrandall8478.github.io#gh-light-mode-only)
+**Jellyfin Featured Fork**<br>
+[![Jellyfin Featured Fork - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=jellyfin-featured&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/jellyfin-featured#gh-dark-mode-only)
+[![Jellyfin Featured Fork - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=jellyfin-featured&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/jellyfin-featured#gh-light-mode-only)
 
 **Practicing JSON parcing in Vue**<br>
 [![Mega Evolution - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=mega-evolution&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/mega-evolution#gh-dark-mode-only)
