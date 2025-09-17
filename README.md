@@ -18,7 +18,7 @@
 - :mortar_board: I am currently attending [__Eastern Michigan University__](https://emich.edu) as a Computer Science major.
 - :smiling_imp: My main goal is to become a full stack developer. The languages I am currently learning are currently **CSS, HTML, Java, Python, JavaScript**. In reality, I am just trying to learn everything.
 - :eyes: I am looking to find more projects to collaborate on to learn more syntax, standards, and tricks.
-- <img height=20px src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png"> I run Arch btw.
+- ~~<img height=20px src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png"> I run Arch btw.~~ I am more of a Gentoo user now. This README is severely out of date.
 
 
 ## :computer: Active Projects 
