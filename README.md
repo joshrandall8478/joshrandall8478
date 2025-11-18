@@ -19,19 +19,19 @@
 **KDE 6 - Dotfiles**<br>
 [![Dotfiles - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=dotfiles&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/dotfiles#gh-dark-mode-only)
 [![Dotfiles - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=dotfiles&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/dotfiles#gh-light-mode-only)
+
 **Jellyfin Featured Fork**<br>
 [![Jellyfin Featured Fork - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=jellyfin-featured&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/jellyfin-featured#gh-dark-mode-only)
 [![Jellyfin Featured Fork - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=jellyfin-featured&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/jellyfin-featured#gh-light-mode-only)
 
-**Practicing JSON parcing in Vue**<br>
-[![Mega Evolution - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=mega-evolution&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/mega-evolution#gh-dark-mode-only)
-[![Mega Evolution - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=mega-evolution&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/mega-evolution#gh-light-mode-only)
+**Steam Deck - Dotfiles**<br>
+[![Deck Dotfiles - Dark](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=deck-dotfiles&theme=dark#gh-dark-mode-only)](https://github.com/joshrandall8478/deck-dotfiles#gh-dark-mode-only)
+[![Deck Dotfiles - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=deck-dotfiles&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/deck-dotfiles#gh-light-mode-only)
 
 
+**More public projects coming
 
 ### :lock: Private Active Projects
-**Meloetta**<br>
-- A discord bot that plays music from YouTube in voice chat, meant to be an open source solution to the loss of the Rythm discord bot.
 
 **<img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" width=15px height=auto> Docker Containers + Self Hosting**<br>
 - Working with various self hosting solutions. Examples include Vaultwarden, n8n, jellyfin, etc.
