@@ -29,7 +29,7 @@
 [![Deck Dotfiles - Light](https://github-readme-stats.vercel.app/api/pin/?username=joshrandall8478&repo=deck-dotfiles&theme=default#gh-light-mode-only)](https://github.com/joshrandall8478/deck-dotfiles#gh-light-mode-only)
 
 
-**More public projects coming
+**More public projects coming**
 
 ### :lock: Private Active Projects
 
