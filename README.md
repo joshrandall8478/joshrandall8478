@@ -9,6 +9,7 @@
 
 
 ## :alien: About Me
+> All of this is out of date, WIP
 - :mortar_board: I am currently attending [__Eastern Michigan University__](https://emich.edu) as a Computer Science major. Graduating December 2025.
 - :smiling_imp: My main goal is to become a full stack developer. The languages I am currently learning are currently **CSS, HTML, Java, Python, JavaScript**. In reality, I am just trying to learn everything.
 - :eyes: I am looking to find more projects to collaborate on to learn more syntax, standards, and tricks.
