@@ -10,3 +10,6 @@
 - Full Stack Web Developer for Enqbator + Third Circuit Court
 - I manage my own Homelab cluster for myself, friends, and family
 - I make Linux content on YouTube when my motivation and time allows
+
+## :iphone: Contact
+- :envelope: [contact@joshrandall.net](mailto:contact@joshrandall.net)
